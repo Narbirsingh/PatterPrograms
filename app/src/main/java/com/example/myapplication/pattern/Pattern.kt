@@ -1,8 +1,8 @@
 package com.example.myapplication.pattern
 
-fun main() {
-    Pattern().printPatter13()
-}
+//fun main() {
+//    Pattern().printPatter13()
+//}
 
 class Pattern {
 

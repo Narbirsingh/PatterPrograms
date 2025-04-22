@@ -1,5 +1,6 @@
 package com.example.myapplication
 
+import android.content.Context
 import com.example.myapplication.pattern.Pattern
 import android.os.Bundle
 import androidx.activity.ComponentActivity
